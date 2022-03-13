@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "title": "Google アラート - \"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\"",
+      "feedUrl": "https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/16683617934506004549",
+      "articles": []
+    }
+  ],
+  "cliVersion": "1.14.4"
+}
