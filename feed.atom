@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-13T12:44:12.410Z</updated>
+    <updated>2022-03-13T12:47:53.898Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora.github.io/numalab-rss/feed.atom"/>
@@ -34,6 +34,26 @@
         <summary type="html"><![CDATA[かめすたとは、BANクラフトから参加している参加勢。栄転勢の一人。 BANクラフトから正規メンバーに採用された栄転勢の一人。MODやプラグインなどに精通しており、KUNが特別採用した。 栄転後はにしとやおぱいちなどとコマンド操作をしたり、独自でMODやプラグインを開発したりなどをして ...]]></summary>
         <author>
             <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
+        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/139</id>
+        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/139"/>
+        <updated>2022-03-07T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[かめすたは自分でプラグインも作れるしこの前の文字ブロックのとか面白かったからわざわざkunのところでする意味あるの ...]]></summary>
+        <author>
+            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
+        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/139</id>
+        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/139"/>
+        <updated>2022-03-07T03:32:00.000Z</updated>
+        <summary type="html"><![CDATA[かめすたは自分でプラグインも作れるしこの前の文字ブロックのとか面白かったからわざわざkunのところでする意味あるの ...]]></summary>
+        <author>
+            <name>Bing: (site:5ch.net) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
         </author>
     </entry>
     <entry>
@@ -97,6 +117,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[🔴参加勢を打ち返す人間ホッケーゲームプラグインを作って遊ぶ！【マイクラ 沼Lab】 - YouTube]]></title>
+        <id>https://www.youtube.com/watch?v=r2xU0Ejdkt4</id>
+        <link href="https://www.youtube.com/watch?v=r2xU0Ejdkt4"/>
+        <updated>2022-03-01T00:26:00.000Z</updated>
+        <summary type="html"><![CDATA[だれでも参加OK 沼Lab Discordhttps://discord.gg/vyDsT6QKgU#マイクラ #プラグイン #雑談 #沼Lab #KUN #50人クラフトチャンネル登録も ...]]></summary>
+        <author>
+            <name>Bing: (site:youtube.com) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[かめすた🍎トロールバカガメ (@Kmesuta) | Twitter]]></title>
         <id>https://twitter.com/Kmesuta</id>
         <link href="https://twitter.com/Kmesuta"/>
@@ -104,6 +134,16 @@
         <summary type="html"><![CDATA[The latest Tweets from かめすた🍎トロールバカガメ (@Kmesuta). #KUNLab のマスコット YouTubeショート毎日投稿中〜！: https://t.co ...]]></summary>
         <author>
             <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かめすた🍎トロールバカガメ (@Kmesuta) | Twitter]]></title>
+        <id>https://twitter.com/Kmesuta</id>
+        <link href="https://twitter.com/Kmesuta"/>
+        <updated>2022-02-24T19:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest Tweets from かめすた🍎トロールバカガメ (@Kmesuta). #KUNLab のマスコット YouTubeショート毎日投稿中〜！: https://t.co ...]]></summary>
+        <author>
+            <name>Bing: (site:twitter.com) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
         </author>
     </entry>
 </feed>
