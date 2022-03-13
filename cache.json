@@ -5,6 +5,93 @@
       "feedUrl": "https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549",
       "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/16683617934506004549",
       "articles": []
+    },
+    {
+      "title": "Bing: \"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\"",
+      "feedUrl": "https://www.bing.com/search?q=%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22&format=RSS",
+      "siteUrl": "http://www.bing.com:80/search?q=%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22",
+      "articles": [
+        {
+          "id": "https://github.com/Neko7sora",
+          "author": null,
+          "description": "ねこそら GitHubは「ソフトウェア開発のプラットフォーム」なので、ソースコードをホスティングすることで問題を解決し、アイデアを実現し、その過程で互いに学び合うことができたらいいなと思います。 - Neko7sora",
+          "link": "https://github.com/Neko7sora",
+          "publishedOn": "2022-03-07T19:53:00.000Z",
+          "wordCount": 687,
+          "title": "Neko7sora (Neko7sora) - GitHub",
+          "imageUrl": "https://avatars.githubusercontent.com/u/75793267?v=4?s=400"
+        },
+        {
+          "id": "https://fifty-people-craft.fandom.com/ja/wiki/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F",
+          "author": null,
+          "description": "かめすたとは、BANクラフトから参加している参加勢。栄転勢の一人。 BANクラフトから正規メンバーに採用された栄転勢の一人。MODやプラグインなどに精通しており、KUNが特別採用した。 栄転後はにしとやおぱいちなどとコマンド操作をしたり、独自でMODやプラグインを開発したりなどをして ...",
+          "link": "https://fifty-people-craft.fandom.com/ja/wiki/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F",
+          "publishedOn": "2022-03-07T11:25:00.000Z",
+          "wordCount": 473,
+          "title": "かめすた | 50人クラフトWiki | Fandom",
+          "imageUrl": "https://static.wikia.nocookie.net/fifty-people-craft/images/5/5d/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F.png/revision/latest?cb=20220215110656&path-prefix=ja"
+        },
+        {
+          "id": "https://tdmtc.tokyo/",
+          "author": null,
+          "description": "Go to 世界防災フォーラムに出展 2019年11月11日月曜日の15時30分からセッションを開催 世界防災フォーラムに出展 2019年11月11 ...",
+          "link": "https://tdmtc.tokyo/",
+          "publishedOn": "2022-03-05T12:46:00.000Z",
+          "wordCount": 373,
+          "title": "災害対策トレーニングセンター – Disaster Management Training Center",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.numalab.net/",
+          "author": null,
+          "description": "沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。",
+          "link": "https://www.numalab.net/",
+          "publishedOn": "2022-03-05T09:47:00.000Z",
+          "wordCount": 106,
+          "title": "numalab.net - 沼プログラミング勢 | 沼Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fifty-people-craft.fandom.com/ja/wiki/KUN_Lab",
+          "author": null,
+          "description": "KUN Lab（くんラボ）とは、50人クラフトにおいてプラグインの開発やサーバー管理を行う組織。 かめすたが就職の内定とともに3月31日に引退することに伴ってその技術を引き継ぐために作られた組織である。主にサーバーの管理や新たなプラグイン・Modの作成を担っており裏方として2020年12月 ...",
+          "link": "https://fifty-people-craft.fandom.com/ja/wiki/KUN_Lab",
+          "publishedOn": "2022-03-05T05:29:00.000Z",
+          "wordCount": 355,
+          "title": "KUN Lab | 50人クラフトWiki | Fandom",
+          "imageUrl": "https://static.wikia.nocookie.net/fifty-people-craft/images/d/d7/Stub.jpg/revision/latest/scale-to-width-down/1200?cb=20211210021607&path-prefix=ja"
+        },
+        {
+          "id": "https://egg.5ch.net/test/read.cgi/streaming/1646388742/-100",
+          "author": null,
+          "description": "!extend:checked:vvvvv:1000:512 スレ立て時は↑を2行に増やしてコピペ こちらはyoutuber「KUN（旧BYCM_KUN）」と、当人が現在メイン活動にしている（主に）マイクラの参加型企画「50人クラフト」について語るスレです。",
+          "link": "https://egg.5ch.net/test/read.cgi/streaming/1646388742/-100",
+          "publishedOn": "2022-03-04T15:17:00.000Z",
+          "wordCount": 746,
+          "title": "【KUN】KUN50人クラフト総合スレ【参加型】part37",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.youtube.com/watch?v=r2xU0Ejdkt4",
+          "author": null,
+          "description": "だれでも参加OK 沼Lab Discordhttps://discord.gg/vyDsT6QKgU#マイクラ #プラグイン #雑談 #沼Lab #KUN #50人クラフトチャンネル登録も ...",
+          "link": "https://www.youtube.com/watch?v=r2xU0Ejdkt4",
+          "publishedOn": "2022-03-01T00:26:00.000Z",
+          "wordCount": null,
+          "title": "🔴参加勢を打ち返す人間ホッケーゲームプラグインを作って遊ぶ！【マイクラ 沼Lab】 - YouTube",
+          "imageUrl": null
+        },
+        {
+          "id": "https://twitter.com/Kmesuta",
+          "author": null,
+          "description": "The latest Tweets from かめすた🍎トロールバカガメ (@Kmesuta). #KUNLab のマスコット YouTubeショート毎日投稿中〜！: https://t.co ...",
+          "link": "https://twitter.com/Kmesuta",
+          "publishedOn": "2022-02-24T19:37:00.000Z",
+          "wordCount": 196,
+          "title": "かめすた🍎トロールバカガメ (@Kmesuta) | Twitter",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.14.4"
