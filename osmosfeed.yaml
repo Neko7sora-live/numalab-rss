@@ -7,3 +7,10 @@ cacheUrl: https://neko7sora.github.io/numalab-rss/cache.json
 sources:
   - href: https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549
   - href: https://www.bing.com/search?q=%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22&format=RSS
+  - href: https://www.google.com/alerts/feeds/05757063843636039135/3232218623981253283
+  - href: https://www.bing.com/search?q=%28site%3Ayoutube.com%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS
+  - href: https://www.bing.com/search?q=%28site%3Atwitter.com%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS
+  - href: https://www.bing.com/search?q=%28site%3A5ch.net%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS
+  - href: https://www.bing.com/search?q=%28site%3Anicovideo.jp%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS
+  - href: https://www.bing.com/search?q=%28site%3A5ch.net%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS
+  - href: https://www.bing.com/search?q=%28site%3Anumalab.net%29&format=RSS
