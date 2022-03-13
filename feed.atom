@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-13T12:32:08.556Z</updated>
+    <updated>2022-03-13T12:44:12.410Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora.github.io/numalab-rss/feed.atom"/>
@@ -17,6 +17,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Neko7sora (Neko7sora) - GitHub]]></title>
+        <id>https://github.com/Neko7sora</id>
+        <link href="https://github.com/Neko7sora"/>
+        <updated>2022-03-07T19:53:00.000Z</updated>
+        <summary type="html"><![CDATA[ねこそら GitHubは「ソフトウェア開発のプラットフォーム」なので、ソースコードをホスティングすることで問題を解決し、アイデアを実現し、その過程で互いに学び合うことができたらいいなと思います。 - Neko7sora]]></summary>
+        <author>
+            <name>Bing: "numalab.net"</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[かめすた | 50人クラフトWiki | Fandom]]></title>
         <id>https://fifty-people-craft.fandom.com/ja/wiki/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F</id>
         <link href="https://fifty-people-craft.fandom.com/ja/wiki/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F"/>
@@ -24,16 +34,6 @@
         <summary type="html"><![CDATA[かめすたとは、BANクラフトから参加している参加勢。栄転勢の一人。 BANクラフトから正規メンバーに採用された栄転勢の一人。MODやプラグインなどに精通しており、KUNが特別採用した。 栄転後はにしとやおぱいちなどとコマンド操作をしたり、独自でMODやプラグインを開発したりなどをして ...]]></summary>
         <author>
             <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
-        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/139</id>
-        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/139"/>
-        <updated>2022-03-07T03:32:00.000Z</updated>
-        <summary type="html"><![CDATA[かめすたは自分でプラグインも作れるしこの前の文字ブロックのとか面白かったからわざわざkunのところでする意味あるの ...]]></summary>
-        <author>
-            <name>Bing: (site:5ch.net) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
         </author>
     </entry>
     <entry>
@@ -57,13 +57,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沼プログラミング勢 | 沼Lab]]></title>
+        <title type="html"><![CDATA[numalab.net - 沼プログラミング勢 | 沼Lab]]></title>
         <id>https://www.numalab.net/</id>
         <link href="https://www.numalab.net/"/>
         <updated>2022-03-05T09:47:00.000Z</updated>
         <summary type="html"><![CDATA[沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。]]></summary>
         <author>
-            <name>Bing: (site:numalab.net)</name>
+            <name>Bing: "numalab.net"</name>
         </author>
     </entry>
     <entry>

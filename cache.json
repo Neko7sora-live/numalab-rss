@@ -1,12 +1,6 @@
 {
   "sources": [
     {
-      "title": "Google アラート - \"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\"",
-      "feedUrl": "https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549",
-      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/16683617934506004549",
-      "articles": []
-    },
-    {
       "title": "Bing: \"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\"",
       "feedUrl": "https://www.bing.com/search?q=%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22&format=RSS",
       "siteUrl": "http://www.bing.com:80/search?q=%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22",
@@ -94,9 +88,9 @@
       ]
     },
     {
-      "title": "Google Alert - site:www.youtube.com \"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\"",
-      "feedUrl": "https://www.google.com/alerts/feeds/05757063843636039135/3232218623981253283",
-      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/3232218623981253283",
+      "title": "Google アラート - \"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\"",
+      "feedUrl": "https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/16683617934506004549",
       "articles": []
     },
     {
@@ -106,15 +100,33 @@
       "articles": []
     },
     {
+      "title": "Google Alert - (site:www.youtube.com) AND (\"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
+      "feedUrl": "https://www.google.com/alerts/feeds/05757063843636039135/3232218623981253283",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/3232218623981253283",
+      "articles": []
+    },
+    {
       "title": "Bing: (site:twitter.com) AND (\"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
       "feedUrl": "https://www.bing.com/search?q=%28site%3Atwitter.com%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS",
       "siteUrl": "http://www.bing.com:80/search?q=(site%3atwitter.com)+AND+(%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22)",
       "articles": []
     },
     {
+      "title": "Google Alert - (site:twitter.com) AND (\"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
+      "feedUrl": "https://www.google.com/alerts/feeds/05757063843636039135/8342619889038173938",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/8342619889038173938",
+      "articles": []
+    },
+    {
       "title": "Bing: (site:5ch.net) AND (\"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
       "feedUrl": "https://www.bing.com/search?q=%28site%3A5ch.net%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS",
       "siteUrl": "http://www.bing.com:80/search?q=(site%3a5ch.net)+AND+(%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22)",
+      "articles": []
+    },
+    {
+      "title": "Google Alert - (site:5ch.net) AND (\"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
+      "feedUrl": "https://www.google.com/alerts/feeds/05757063843636039135/7663788096116794697",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/7663788096116794697",
       "articles": []
     },
     {
@@ -124,27 +136,26 @@
       "articles": []
     },
     {
-      "title": "Bing: (site:5ch.net) AND (\"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
-      "feedUrl": "https://www.bing.com/search?q=%28site%3A5ch.net%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS",
-      "siteUrl": "http://www.bing.com:80/search?q=(site%3a5ch.net)+AND+(%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22)",
-      "articles": [
-        {
-          "id": "https://egg.5ch.net/test/read.cgi/streaming/1646388742/139",
-          "author": null,
-          "description": "かめすたは自分でプラグインも作れるしこの前の文字ブロックのとか面白かったからわざわざkunのところでする意味あるの ...",
-          "link": "https://egg.5ch.net/test/read.cgi/streaming/1646388742/139",
-          "publishedOn": "2022-03-07T03:32:00.000Z",
-          "wordCount": 22,
-          "title": "【KUN】KUN50人クラフト総合スレ【参加型】part37",
-          "imageUrl": null
-        }
-      ]
+      "title": "Google Alert - (site:nicovideo.jp) AND (\"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
+      "feedUrl": "https://www.google.com/alerts/feeds/05757063843636039135/11311065735610938812",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/11311065735610938812",
+      "articles": []
     },
     {
-      "title": "Bing: (site:numalab.net)",
-      "feedUrl": "https://www.bing.com/search?q=%28site%3Anumalab.net%29&format=RSS",
-      "siteUrl": "http://www.bing.com:80/search?q=(site%3anumalab.net)",
+      "title": "Bing: \"numalab.net\"",
+      "feedUrl": "https://www.bing.com/search?q=%22numalab.net%22&format=RSS",
+      "siteUrl": "http://www.bing.com:80/search?q=%22numalab.net%22",
       "articles": [
+        {
+          "id": "https://github.com/Neko7sora",
+          "author": null,
+          "description": "ねこそら GitHubは「ソフトウェア開発のプラットフォーム」なので、ソースコードをホスティングすることで問題を解決し、アイデアを実現し、その過程で互いに学び合うことができたらいいなと思います。 - Neko7sora",
+          "link": "https://github.com/Neko7sora",
+          "publishedOn": "2022-03-07T19:53:00.000Z",
+          "wordCount": 687,
+          "title": "Neko7sora (Neko7sora) - GitHub",
+          "imageUrl": "https://avatars.githubusercontent.com/u/75793267?v=4?s=400"
+        },
         {
           "id": "https://www.numalab.net/",
           "author": null,
@@ -152,10 +163,16 @@
           "link": "https://www.numalab.net/",
           "publishedOn": "2022-03-05T09:47:00.000Z",
           "wordCount": 106,
-          "title": "沼プログラミング勢 | 沼Lab",
+          "title": "numalab.net - 沼プログラミング勢 | 沼Lab",
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Google Alert - \"numalab.net\"",
+      "feedUrl": "https://www.google.com/alerts/feeds/05757063843636039135/11872984871403759586",
+      "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/11872984871403759586",
+      "articles": []
     }
   ],
   "cliVersion": "1.14.4"
