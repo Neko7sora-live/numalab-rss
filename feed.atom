@@ -2,88 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T06:04:13.586Z</updated>
+    <updated>2022-03-17T06:10:28.190Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora.github.io/numalab-rss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
-        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/-100</id>
-        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/-100"/>
-        <updated>2022-03-14T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[沼Labには4000人参加者がいて1部の人にはプログラムの変更権限が実質与えられている、つまり4000人のうちの悪意ある人間が隠れてウイルスを仕込む危険がある 3. かめすたを怒ってる時にかめすたが反感を買うようなことを言うので「こう言う時は謝ったほう ...]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[numalab.net - 沼プログラミング勢 | 沼Lab]]></title>
-        <id>https://www.numalab.net/</id>
-        <link href="https://www.numalab.net/"/>
-        <updated>2022-03-13T23:21:00.000Z</updated>
-        <summary type="html"><![CDATA[沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かめすた | 50人クラフトWiki | Fandom]]></title>
-        <id>https://fifty-people-craft.fandom.com/ja/wiki/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F</id>
-        <link href="https://fifty-people-craft.fandom.com/ja/wiki/%E3%81%8B%E3%82%81%E3%81%99%E3%81%9F"/>
-        <updated>2022-03-13T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[かめすたとは、BANクラフトから参加している参加勢。栄転勢の一人。 BANクラフトから正規メンバーに採用された栄転勢の一人。MODやプラグインなどに精通しており、KUNが特別採用した。 栄転後はにしとやおぱいちなどとコマンド操作をしたり、独自でMODやプラグインを開発したりなどをして ...]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
-        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/139</id>
-        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/139"/>
-        <updated>2022-03-13T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[かめすたは自分でプラグインも作れるしこの前の文字ブロックのとか面白かったからわざわざkunのところでする意味あるの ...]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KUN Lab | 50人クラフトWiki | Fandom]]></title>
-        <id>https://fifty-people-craft.fandom.com/ja/wiki/KUN_Lab</id>
-        <link href="https://fifty-people-craft.fandom.com/ja/wiki/KUN_Lab"/>
-        <updated>2022-03-11T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[KUN Lab（くんラボ）とは、50人クラフトにおいてプラグインの開発やサーバー管理を行う組織。 かめすたが就職の内定とともに3月31日に引退することに伴ってその技術を引き継ぐために作られた組織である。主にサーバーの管理や新たなプラグイン・Modの作成を担っており裏方として2020年12月 ...]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[災害対策トレーニングセンター – Disaster Management Training Center]]></title>
-        <id>https://tdmtc.tokyo/</id>
-        <link href="https://tdmtc.tokyo/"/>
-        <updated>2022-03-05T12:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Go to 世界防災フォーラムに出展 2019年11月11日月曜日の15時30分からセッションを開催 世界防災フォーラムに出展 2019年11月11 ...]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かめすた🍎トロールバカガメ (@Kmesuta) | Twitter]]></title>
-        <id>https://twitter.com/Kmesuta</id>
-        <link href="https://twitter.com/Kmesuta"/>
-        <updated>2022-02-24T19:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest Tweets from かめすた🍎トロールバカガメ (@Kmesuta). #KUNLab のマスコット YouTubeショート毎日投稿中〜！: https://t.co ...]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かめすた🍎トロールバカガメ (@Kmesuta) | Twitter]]></title>
-        <id>https://twitter.com/Kmesuta</id>
-        <link href="https://twitter.com/Kmesuta"/>
-        <updated>2022-02-24T19:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest Tweets from かめすた🍎トロールバカガメ (@Kmesuta). #KUNLab のマスコット YouTubeショート毎日投稿中〜！: https://t.co ...]]></summary>
-        <author>
-            <name>Bing: (site:twitter.com) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
-        </author>
-    </entry>
 </feed>
