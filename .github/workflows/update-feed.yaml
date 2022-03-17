@@ -24,8 +24,10 @@ jobs:
         run: npm i
       - name: Build the feed
         run: npm run build
+      - name: touch .nojekyll
+        run: touch .nojekyll
       - name: Archive build output
-        run: tar --dereference --hard-dereference --directory ./public/ -cvf artifact.tar .
+        run: tar --dereference --hard-dereference --directory public/ -cvf artifact.tar .
       - name: Upload Artifact
         uses: actions/upload-artifact@v2
         with:
