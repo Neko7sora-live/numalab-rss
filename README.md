@@ -1,7 +1,3 @@
-GitHub All activity に、カルムが載ってしまうので、`Neko7sora-live`に転送しました。
-
----
-
 # About
 
 This is repository hosts the UI and content of an RSS feed reader.
