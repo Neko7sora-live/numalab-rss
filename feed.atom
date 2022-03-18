@@ -2,8 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-17T06:10:28.190Z</updated>
+    <updated>2022-03-18T00:47:27.891Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[<b>沼Lab</b>の真実を知ってしまったながつき - ニコニコ動画]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nicovideo.jp/watch/sm40190002&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AFQjCNEn8VHSCp6NdglEhhBHGpNaQH-vJA</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.nicovideo.jp/watch/sm40190002&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AFQjCNEn8VHSCp6NdglEhhBHGpNaQH-vJA"/>
+        <updated>2022-03-17T18:06:40.000Z</updated>
+        <summary type="html"><![CDATA[動画静画生放送チャンネルブロマガアツマールアプリ. その他. ログイン · ニコニコ会員登録 · ぶりぶりながつき素材シリーズ ...]]></summary>
+        <author>
+            <name>Google アラート - "沼Lab" OR "【マイクラ 沼Lab】" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab"</name>
+        </author>
+    </entry>
 </feed>

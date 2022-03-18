@@ -90,7 +90,18 @@
       "title": "Google アラート - \"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\"",
       "feedUrl": "https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549",
       "siteUrl": "https://www.google.com/alerts/feeds/05757063843636039135/16683617934506004549",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.google.com/url?rct=j&sa=t&url=https://www.nicovideo.jp/watch/sm40190002&ct=ga&cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&usg=AFQjCNEn8VHSCp6NdglEhhBHGpNaQH-vJA",
+          "author": null,
+          "description": "動画静画生放送チャンネルブロマガアツマールアプリ. その他. ログイン · ニコニコ会員登録 · ぶりぶりながつき素材シリーズ ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nicovideo.jp/watch/sm40190002&ct=ga&cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&usg=AFQjCNEn8VHSCp6NdglEhhBHGpNaQH-vJA",
+          "publishedOn": "2022-03-17T18:06:40.000Z",
+          "wordCount": 5,
+          "title": "<b>沼Lab</b>の真実を知ってしまったながつき - ニコニコ動画",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Bing: (site:youtube.com) AND (\"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
