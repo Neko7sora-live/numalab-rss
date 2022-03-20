@@ -2,58 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-19T00:45:04.959Z</updated>
+    <updated>2022-03-20T00:48:18.003Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora.github.io/numalab-rss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
-        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/-100</id>
-        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/-100"/>
-        <updated>2022-03-14T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[沼Labには4000人参加者がいて1部の人にはプログラムの変更権限が実質与えられている、つまり4000人のうちの悪意ある人間が隠れてウイルスを仕込む危険がある 3. かめすたを怒ってる時にかめすたが反感を買うようなことを言うので「こう言う時は謝ったほう ...]]></summary>
-        <author>
-            <name>Bing: (site:5ch.net) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[numalab.net - 沼プログラミング勢 | 沼Lab]]></title>
-        <id>https://www.numalab.net/</id>
-        <link href="https://www.numalab.net/"/>
-        <updated>2022-03-13T23:21:00.000Z</updated>
-        <summary type="html"><![CDATA[沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50人クラフトの用語一覧 | 50人クラフトWiki | Fandom]]></title>
-        <id>https://fifty-people-craft.fandom.com/ja/wiki/50%E4%BA%BA%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AE%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7</id>
-        <link href="https://fifty-people-craft.fandom.com/ja/wiki/50%E4%BA%BA%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AE%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7"/>
-        <updated>2022-03-13T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[50人クラフトの用語一覧では、50人クラフトシリーズに出現する用語、参加勢の名言などを示す。 あーけんにiPad 50人クラフトにおける「豚に真珠」を意味する諺。あーけんがiPadを使いこなせないというエピソードに由来する。配信上では2022年1月27日に初めて紹介された。]]></summary>
-        <author>
-            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【KUN】KUN50人クラフト総合スレ【参加型】part37]]></title>
-        <id>https://egg.5ch.net/test/read.cgi/streaming/1646388742/139</id>
-        <link href="https://egg.5ch.net/test/read.cgi/streaming/1646388742/139"/>
-        <updated>2022-03-13T01:09:00.000Z</updated>
-        <summary type="html"><![CDATA[かめすたは自分でプラグインも作れるしこの前の文字ブロックのとか面白かったからわざわざkunのところでする意味あるの ...]]></summary>
-        <author>
-            <name>Bing: (site:5ch.net) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[かめすた🍎トロールバカガメ (@Kmesuta) | Twitter]]></title>
-        <id>https://twitter.com/Kmesuta</id>
-        <link href="https://twitter.com/Kmesuta"/>
-        <updated>2022-02-24T19:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The latest Tweets from かめすた🍎トロールバカガメ (@Kmesuta). #KUNLab のマスコット YouTubeショート毎日投稿中〜！: https://t.co ...]]></summary>
-        <author>
-            <name>Bing: (site:twitter.com) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
-        </author>
-    </entry>
 </feed>
