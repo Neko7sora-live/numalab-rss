@@ -1,6 +1,7 @@
 name: Build site on schedule or main branch update
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
