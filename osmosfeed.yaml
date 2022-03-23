@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://neko7sora.github.io/numalab-rss/cache.json
+cacheUrl: https://neko7sora-live.github.io/numalab-rss/cache.json
 sources:
   - href: https://www.bing.com/search?q=%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22&format=RSS
   - href: https://www.google.co.jp/alerts/feeds/05757063843636039135/16683617934506004549
