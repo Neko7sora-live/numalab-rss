@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-23T04:52:04.077Z</updated>
+    <updated>2022-03-24T00:52:43.548Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[numalab.net - 沼プログラミング勢 | 沼Lab]]></title>
+        <id>https://www.numalab.net/</id>
+        <link href="https://www.numalab.net/"/>
+        <updated>2022-03-19T17:58:00.000Z</updated>
+        <summary type="html"><![CDATA[沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。]]></summary>
+        <author>
+            <name>Bing: "numalab.net"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🔴沼Lab大集合～！障害物アスレチックするプラグインを作る！【マイクラ 沼Lab】 - YouTube]]></title>
         <id>https://www.youtube.com/watch?v=TnB7TR6CZTI</id>

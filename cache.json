@@ -249,7 +249,18 @@
       "title": "Bing: \"numalab.net\"",
       "feedUrl": "https://www.bing.com/search?q=%22numalab.net%22&format=RSS",
       "siteUrl": "http://www.bing.com:80/search?q=%22numalab.net%22",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.numalab.net/",
+          "author": null,
+          "description": "沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。",
+          "link": "https://www.numalab.net/",
+          "publishedOn": "2022-03-19T17:58:00.000Z",
+          "wordCount": 106,
+          "title": "numalab.net - 沼プログラミング勢 | 沼Lab",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Google Alert - \"numalab.net\"",
