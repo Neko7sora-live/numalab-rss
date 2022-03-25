@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-24T00:52:43.548Z</updated>
+    <updated>2022-03-25T00:48:40.067Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[沼Labは沼勢によるプログラミングを使ってKUNチャンネルのネタを制作するコミュニティです。]]></summary>
         <author>
             <name>Bing: "numalab.net"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50人クラフトの用語一覧 | 50人クラフトWiki | Fandom]]></title>
+        <id>https://fifty-people-craft.fandom.com/ja/wiki/50%E4%BA%BA%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AE%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7</id>
+        <link href="https://fifty-people-craft.fandom.com/ja/wiki/50%E4%BA%BA%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AE%E7%94%A8%E8%AA%9E%E4%B8%80%E8%A6%A7"/>
+        <updated>2022-03-19T03:04:00.000Z</updated>
+        <summary type="html"><![CDATA[50人クラフトの用語一覧では、50人クラフトシリーズに出現する用語、参加勢の名言などを示す。 あーけんにiPad 50人クラフトにおける「豚に真珠」を意味する諺。あーけんがiPadを使いこなせないというエピソードに由来する。配信上では2022年1月27日に初めて紹介された。]]></summary>
+        <author>
+            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
         </author>
     </entry>
     <entry>
