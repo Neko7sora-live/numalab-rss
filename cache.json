@@ -247,7 +247,18 @@
       "title": "Bing: (site:nicovideo.jp) AND (\"沼Lab\" OR \"マイクラ 沼Lab\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",
       "feedUrl": "https://www.bing.com/search?q=%28site%3Anicovideo.jp%29+AND+%28%22%E6%B2%BCLab%22+OR+%22%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9+%E6%B2%BCLab%22+OR+%22%23%E6%B2%BClab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22%29&format=RSS",
       "siteUrl": "http://www.bing.com:80/search?q=(site%3anicovideo.jp)+AND+(%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22+OR+%22Numa+Lab%22)",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.nicovideo.jp/watch/sm40190002",
+          "author": null,
+          "description": "沼Labの真実を知ってしまったながつき [その他] 初投稿です",
+          "link": "https://www.nicovideo.jp/watch/sm40190002",
+          "publishedOn": "2022-03-17T18:08:00.000Z",
+          "wordCount": 38,
+          "title": "沼Labの真実を知ってしまったながつき - ニコニコ動画",
+          "imageUrl": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/40190002/40190002.64196907.original/r1280x720l?key=06422f798abce7366743e9701ed3d917a9c087f25efbea64ac29ee25619c1c27"
+        }
+      ]
     },
     {
       "title": "Google Alert - (site:nicovideo.jp) AND (\"沼Lab\" OR \"【マイクラ 沼Lab】\" OR \"#沼lab\" OR \"NumaLab\" OR \"Numa-Lab\" OR \"Numa Lab\")",

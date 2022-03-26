@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-25T00:48:40.067Z</updated>
+    <updated>2022-03-26T00:49:26.358Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
@@ -54,6 +54,16 @@
         <summary type="html"><![CDATA[沼Labの真実を知ってしまったながつき [その他] 初投稿です]]></summary>
         <author>
             <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[沼Labの真実を知ってしまったながつき - ニコニコ動画]]></title>
+        <id>https://www.nicovideo.jp/watch/sm40190002</id>
+        <link href="https://www.nicovideo.jp/watch/sm40190002"/>
+        <updated>2022-03-17T18:08:00.000Z</updated>
+        <summary type="html"><![CDATA[沼Labの真実を知ってしまったながつき [その他] 初投稿です]]></summary>
+        <author>
+            <name>Bing: (site:nicovideo.jp) AND ("沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab")</name>
         </author>
     </entry>
     <entry>
