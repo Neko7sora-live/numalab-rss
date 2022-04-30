@@ -6,6 +6,16 @@
       "siteUrl": "http://www.bing.com:80/search?q=%22%e6%b2%bcLab%22+OR+%22%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9+%e6%b2%bcLab%22+OR+%22%23%e6%b2%bclab%22+OR+%22NumaLab%22+OR+%22Numa-Lab%22",
       "articles": [
         {
+          "id": "https://www.numalab.net/minecraft-lively-s2",
+          "author": null,
+          "description": "生活サーバーs2 s1からプラスされた機能！ ＋チャンク保護 → 生活ワールドで自分の所有地を証明しよう ＋資源ワールド → チャンク保護されていない世界で資源を入手しよう",
+          "link": "https://www.numalab.net/minecraft-lively-s2",
+          "publishedOn": "2022-04-23T00:20:00.000Z",
+          "wordCount": 21,
+          "title": "生活サーバーS2 | 沼Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://fifty-people-craft.fandom.com/ja/wiki/50%E4%BA%BA%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AEMOD%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E4%B8%80%E8%A6%A7",
           "author": null,
           "description": "かめすた（沼Lab） かめすた: プレイヤーが見たところが全て溶岩になる世界でネザーに行けるのか 難易度が完全に無理ゲーすぎたw（2022年3月3日配信） 見た所がランダムに変わるMOD ゴラクバ 見た場所がランダムに変わる世界でサバイバル",
@@ -281,6 +291,16 @@
       "feedUrl": "https://www.bing.com/search?q=%22numalab.net%22&format=RSS",
       "siteUrl": "http://www.bing.com:80/search?q=%22numalab.net%22",
       "articles": [
+        {
+          "id": "https://www.numalab.net/minecraft-lively-s2",
+          "author": null,
+          "description": "生活サーバーs2 s1からプラスされた機能！ ＋チャンク保護 → 生活ワールドで自分の所有地を証明しよう ＋資源ワールド → チャンク保護されていない世界で資源を入手しよう",
+          "link": "https://www.numalab.net/minecraft-lively-s2",
+          "publishedOn": "2022-04-23T00:20:00.000Z",
+          "wordCount": 21,
+          "title": "生活サーバーS2 | 沼Lab",
+          "imageUrl": null
+        },
         {
           "id": "https://www.numalab.net/",
           "author": null,

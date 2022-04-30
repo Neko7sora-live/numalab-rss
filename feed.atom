@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-29T00:58:25.716Z</updated>
+    <updated>2022-04-30T01:04:28.538Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生活サーバーS2 | 沼Lab]]></title>
+        <id>https://www.numalab.net/minecraft-lively-s2</id>
+        <link href="https://www.numalab.net/minecraft-lively-s2"/>
+        <updated>2022-04-23T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[生活サーバーs2 s1からプラスされた機能！ ＋チャンク保護 → 生活ワールドで自分の所有地を証明しよう ＋資源ワールド → チャンク保護されていない世界で資源を入手しよう]]></summary>
+        <author>
+            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活サーバーS2 | 沼Lab]]></title>
+        <id>https://www.numalab.net/minecraft-lively-s2</id>
+        <link href="https://www.numalab.net/minecraft-lively-s2"/>
+        <updated>2022-04-23T00:20:00.000Z</updated>
+        <summary type="html"><![CDATA[生活サーバーs2 s1からプラスされた機能！ ＋チャンク保護 → 生活ワールドで自分の所有地を証明しよう ＋資源ワールド → チャンク保護されていない世界で資源を入手しよう]]></summary>
+        <author>
+            <name>Bing: "numalab.net"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[50人クラフトのMOD・プラグイン一覧 | 50人クラフトWiki | Fandom]]></title>
         <id>https://fifty-people-craft.fandom.com/ja/wiki/50%E4%BA%BA%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%81%AEMOD%E3%83%BB%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%E4%B8%80%E8%A6%A7</id>
