@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-05-06T00:53:44.727Z</updated>
+    <updated>2022-05-07T00:56:01.954Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[沼ラボ - فى الخبر]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.filkhabr.com/p/%25E6%25B2%25BC%25E3%2583%25A9%25E3%2583%259C&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw2RRZABn-EeJ8M6Z91Yj0v0</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.filkhabr.com/p/%25E6%25B2%25BC%25E3%2583%25A9%25E3%2583%259C&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw2RRZABn-EeJ8M6Z91Yj0v0"/>
+        <updated>2022-05-05T08:41:30.000Z</updated>
+        <summary type="html"><![CDATA[沼Lab大集合 障害物アスレチックするプラグインを作る マイクラ 沼Lab ... 沼Labのコイツが意味わからんModを作ったらしいので実際に遊んでみる マイクラ 沼 ...]]></summary>
+        <author>
+            <name>Google アラート - "沼Lab" OR "【マイクラ 沼Lab】" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生活サーバーS2 | 沼Lab]]></title>
         <id>https://www.numalab.net/minecraft-lively-s2</id>
