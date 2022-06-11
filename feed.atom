@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-10T01:03:37.254Z</updated>
+    <updated>2022-06-11T00:57:28.028Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[マイクラサーバールール - KamePowerWorldDocs]]></title>
+        <id>https://www.kamesuta.com/docs/minecraft/</id>
+        <link href="https://www.kamesuta.com/docs/minecraft/"/>
+        <updated>2022-06-10T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[・プロフィール欄に「沼 Lab」と書くことは基本的に禁止 ・「かめぱわぁ～るど」は OK ・鯖内スクショツイート可能 ・スクショをツイートするときはハッシュタグを付けること ・配信は許可、ただし概要欄に以下の文をコピペすること ↓]]></summary>
+        <author>
+            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[はじめに - KamePowerWorldDocs]]></title>
+        <id>https://www.kamesuta.com/docs/about/</id>
+        <link href="https://www.kamesuta.com/docs/about/"/>
+        <updated>2022-06-10T01:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Name Info; 組織名: かめぱわぁ～るど (英文表記: KamePowerWorld) 設立日: 2022/01/10 → 活動分離日: 2022/03/05 「沼 Lab」と「かめぱわぁ～るど」に活動が分離されました。]]></summary>
+        <author>
+            <name>Bing: "沼Lab" OR "マイクラ 沼Lab" OR "#沼lab" OR "NumaLab" OR "Numa-Lab"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[沼ラボ - فى الخبر]]></title>
         <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.filkhabr.com/p/%25E6%25B2%25BC%25E3%2583%25A9%25E3%2583%259C&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw2RRZABn-EeJ8M6Z91Yj0v0</id>
