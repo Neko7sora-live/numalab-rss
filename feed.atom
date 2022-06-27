@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-06-26T01:06:35.516Z</updated>
+    <updated>2022-06-27T01:07:58.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[<b>Numa-lab</b>. (@inknuma4) / Twitter]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://twitter.com/inknuma4&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw270uW7QJwKwyCJ5Xs5QFvn</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://twitter.com/inknuma4&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw270uW7QJwKwyCJ5Xs5QFvn"/>
+        <updated>2022-06-25T17:40:44.000Z</updated>
+        <summary type="html"><![CDATA[Numa-lab. @inknuma4. インク沼の奥底でインクにまつわる品々を作り出す製作室。6/11インク沼ーケットにて作品初お披露目。『ぐるり』(.]]></summary>
+        <author>
+            <name>Google アラート - "沼Lab" OR "【マイクラ 沼Lab】" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[マイクラサーバールール - KamePowerWorldDocs]]></title>
         <id>https://www.kamesuta.com/docs/minecraft/</id>
