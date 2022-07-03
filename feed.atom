@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neko7sora-live.github.io/numalab-rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-07-02T01:03:29.282Z</updated>
+    <updated>2022-07-03T01:07:36.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://neko7sora-live.github.io/numalab-rss/index.html"/>
     <link rel="self" href="https://neko7sora-live.github.io/numalab-rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[<b>Numa.lab</b> - Reviews | Facebook]]></title>
+        <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://m.facebook.com/numa.laboratory/reviews&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw2-lFFlejCp1F6aHrkpQ0EE</id>
+        <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://m.facebook.com/numa.laboratory/reviews&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw2-lFFlejCp1F6aHrkpQ0EE"/>
+        <updated>2022-07-01T10:48:14.000Z</updated>
+        <summary type="html"><![CDATA[Cover Photo: Numa.lab's photo. Numa.lab. Jewelry/watches. Like. Liked. HomePostsReviewsPhotosGroupsCommunityVideosAbout. No rating yet. Loading.]]></summary>
+        <author>
+            <name>Google アラート - "沼Lab" OR "【マイクラ 沼Lab】" OR "#沼lab" OR "NumaLab" OR "Numa-Lab" OR "Numa Lab"</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<b>Numa-lab</b>. (@inknuma4) / Twitter]]></title>
         <id>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://twitter.com/inknuma4&amp;ct=ga&amp;cd=CAIyHjk1OWNlYjczZWI0MjBlN2Y6Y28uanA6amE6VVM6TA&amp;usg=AOvVaw270uW7QJwKwyCJ5Xs5QFvn</id>
